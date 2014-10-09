@@ -4,7 +4,7 @@
     id        = "com.phonegap.example1"
     version   = "1.0.0">
 
-<name>jQuery Mobile Web App</name>
+<name>Chapter 4</name>
 
 <description>
 A simple PhoneGap Build application.
